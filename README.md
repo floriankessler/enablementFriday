@@ -30,16 +30,16 @@ On Friday
 
 - at 0900 we'll kick it off. For that I'll update the repo's `README.md` on Friday with the challenges and walk you through it.
 
-    Task 1 - Name model types and deployment options
-    Task 2 - Create and store a model locally
-    Task 3 - Predict locally using the previously generated model
-    Task 4 - Monitor the model with DR MLOps
-      4.1 Create and deploy a new Model Package in DataRobot.
-      4.2 Build a docker image containing the monitoring agent
-      4.3 Create spooler (rabbitmq)
-      4.4 Adapt the agent's config to use rabbitmq
-      4.5 Run the agent within docker using your config
-      4.6 Instrument and monitor the app
+  - Task 1 - Name model types and deployment options
+  - Task 2 - Create and store a model locally
+  - Task 3 - Predict locally using the previously generated model
+  - Task 4 - Monitor the model with DR MLOps
+    - 4.1 Create and deploy a new Model Package in DataRobot.
+    - 4.2 Build a docker image containing the monitoring agent
+    - 4.3 Create spooler (rabbitmq)
+    - 4.4 Adapt the agent's config to use rabbitmq
+    - 4.5 Run the agent within docker using your config
+    - 4.6 Instrument and monitor the app
 
   For hints feel free to ping me everytime. Should it be relevant for the team, I'll create/update `Hints.md` in the repo and inform you on #emea-ai-delivery-private.
 
