@@ -10,8 +10,7 @@ DEPLOYMENT_ID = '61924d543e5e9828d5c5e84d'
 MODEL_ID = '61924d3510fc1c63d820b4c8'
 # Spool directory path must match the Monitoring Agent path configured by admin.
 #SPOOL_DIR = "/tmp/ta"
-QUEUE_URL = "amqp://enablement-rabbitmq"
-#QUEUE_URL = "amqp://localhost"
+QUEUE_URL = "amqp://localhost"
 QUEUE_NAME = "mlops"
 # MLOPS: initialize the MLOps instance
 mlops = MLOps() \
